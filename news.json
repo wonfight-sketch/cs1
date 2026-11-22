@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:49+09:00",
+  "updated_at": "2026-11-23T04:41+09:00",
   "source": "https://news.google.com/rss/search?q=%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80+%EC%B2%AD%EB%A0%B4+OR+%EA%B3%B5%EC%A7%81%EC%9E%90+%EB%B6%80%ED%8C%A8+OR+%EA%B3%B5%EC%A7%81%EC%9C%A4%EB%A6%AC&hl=ko&gl=KR&ceid=KR%3Ako",
   "items": [
     {
@@ -15,12 +15,6 @@
       "source": "경기도뉴스포털"
     },
     {
-      "title": "법무부 산하 공소청, 무리한 기소 땐 근무성적 반영…행안부 산하 중수청, 부패·참사 등 9대 중범죄 수사 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84U3RxQ2tWc2U2X3diRnNMMVJjbldCNEd1VUdZYTdyYXl5b3JYZ01fb015ZzdTMFJGb09NaWNFR0lDTjJfRkFtREx6T3FtOU53YnlYeXBYOS1xQdIBX0FVX3lxTE5GVGxvR2NpekFXcGpqRWh6X1pKZWdRQWhGZ3V2Q0loQkVBVWU5cThQMUNKeUc1WmwzLTNHQkRSME9QVzlzT1RJNzhlbWp1el91c2k3Z2NNQ1VCRFRwenVB?oc=5",
-      "date": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "source": "경향신문"
-    },
-    {
       "title": "지방자치단체 공직자 ‘지역 토착 비리’ 등 부패 290건 적발 - 대한민국 정책브리핑",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JT2FhTDdpcV9UWGFWYlRYVWR2Y0ZYSmZIX3NjVjh6ZW5vckRLSTUwVktid0pRWXVkNHNiRDVqTHlCVnMyR2RLUzNYT0ZZLUpmMXB5eXB4TERvZHFvVjVvXzd4R09yUGpPMFVQdw?oc=5",
       "date": "Wed, 04 Oct 2023 07:00:00 GMT",
@@ -31,6 +25,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EUzFmQVprTWdjbjhYaTFwY1dnT3VjcVduTVFTTF8xaVdPVmIzbXVkRG5FY3lvNFgxS2Q3RlZkajFqM3dRalhhOEl6T0F4Q1NRQ29zZGdR?oc=5",
       "date": "Wed, 04 Oct 2023 07:00:00 GMT",
       "source": "중앙일보"
+    },
+    {
+      "title": "행안부, “공직부패 100일 특별감찰, 적발사례 공개” - 시사연합신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pOXBvbWZZNjBBeG5ENnVOVU1WdUg4RFFaOWR1Sy00RkI0ZFhEUnNKc0JzejlsRmQ2d2dxbmhQT0lZN0RZUTdMUlNXVGZIWjhEOXVSSS1nRmJ0SDVpOUd1TTY1UlUxTU9tR1BQTVduTEnSAXRBVV95cUxPM1JxQ0JLbFZLLUtfWWpqREsxTVE0ZE9XY29YUEFPekVtSDRXaGtyaXk4VzZ2V3owV01BeDY1cjAwLTVoY2txc1duZTdGSlpleUtpN3RfSFdlTzhSQ05iVk54YUd4X3pEQVpKRFlMNlE5b3p5Tg?oc=5",
+      "date": "Wed, 04 Oct 2023 07:00:00 GMT",
+      "source": "시사연합신문"
     },
     {
       "title": "[지자체 공직부패 요지경] 자기 땅 옆에 농로 만들고…입찰 정보 지인에 흘리고 - 서울경제",
@@ -49,12 +49,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uakR5QTBqY0pXZlZCMDRPV2RFaExtTWVCbG5zbGtTS2F5WF9iTGhuOExZS1BBdms1MGZSRU5CQnJlRnpUb1lEUlNUdUxaWXBzY0NDeXNmQ3FLNnhjM1c3RFZuc3lGVXg5?oc=5",
       "date": "Mon, 06 Feb 2023 08:00:00 GMT",
       "source": "충청타임즈"
-    },
-    {
-      "title": "괴산군, 공직자 대상 청렴교육 실시 - 중부매일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40QUFRVjlIdTN3WjctTDZaZjE2cnF4RnRzYmVMZV9fVGN3bHU3ejVhZF9tU0JBZzhObmV3b0FMUm52cU1NalNpRHpVRS1DcVJ5RU1nOXE1bUpnLUN1Znk5RXJIUXJmeFFXSFHSAW5BVV95cUxQNExma2s5SExNU2t3UW8zRk11MVh4clhwNElhUE9LLWw0UEVyYXhhY0NFYjBXN3FaUEJ0cTFaN2V2UndHWkxhX3o1U2lEMmVqekVHM1ZFRjdvUXZhMjlNLXhDb25xSEozTVZuWW81dw?oc=5",
-      "date": "Tue, 27 Oct 2020 07:00:00 GMT",
-      "source": "중부매일"
     }
   ]
 }
